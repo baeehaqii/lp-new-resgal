@@ -342,8 +342,8 @@ export default function Properties() {
     {
       id: 1,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966591/regal35-1_gfcbgb.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966592/regal35-2_fsfise.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273217/Screenshot_2025-11-04_at_23.03.26_entdmw.avif",
       name: "Tipe 35/84",
@@ -358,8 +358,9 @@ export default function Properties() {
     {
       id: 2,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966592/regal35-2_fsfise.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966591/regal35-1_gfcbgb.avif",
+        
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273217/Screenshot_2025-11-04_at_23.03.49_jcqiub.avif",
       name: "Tipe 38/84",
@@ -374,8 +375,8 @@ export default function Properties() {
     {
       id: 3,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966591/regal35-1_gfcbgb.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966592/regal35-2_fsfise.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273217/Screenshot_2025-11-04_at_23.03.56_uu3mis.avif",
       name: "Tipe 38/77",
@@ -390,8 +391,8 @@ export default function Properties() {
     {
       id: 4,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966592/regal35-2_fsfise.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966591/regal35-1_gfcbgb.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273218/Screenshot_2025-11-04_at_23.04.03_onhxp8.avif",
       name: "Tipe 38/80",
@@ -406,8 +407,8 @@ export default function Properties() {
     {
       id: 5,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966591/regal44-1_kenrgc.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966592/regal44-2_jv9ipg.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273220/Screenshot_2025-11-04_at_23.04.08_onyttt.avif",
       name: "Tipe 44/80",
@@ -422,8 +423,8 @@ export default function Properties() {
     {
       id: 6,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966591/regal44-1_kenrgc.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966592/regal44-2_jv9ipg.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273218/Screenshot_2025-11-04_at_23.04.14_bgp87j.avif",
       name: "Tipe 47/84",
@@ -438,8 +439,8 @@ export default function Properties() {
     {
       id: 7,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966591/regal44-1_kenrgc.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966592/regal44-2_jv9ipg.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273219/Screenshot_2025-11-04_at_23.04.22_qfnpea.avif",
       name: "Tipe 47/112",
@@ -454,8 +455,8 @@ export default function Properties() {
     {
       id: 8,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966592/regal52-1_h5sdiy.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966592/regal52-2_aj63bf.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273218/Screenshot_2025-11-04_at_23.04.29_wkvgp6.avif",
       name: "Tipe 52/84",
@@ -470,8 +471,8 @@ export default function Properties() {
     {
       id: 9,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966594/regal53-2_cvintq.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966593/regal53-1_eyexnl.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273220/Screenshot_2025-11-04_at_23.04.37_ouolvw.avif",
       name: "Tipe 53/84",
@@ -486,8 +487,8 @@ export default function Properties() {
     {
       id: 10,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+         "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966594/regal53-2_cvintq.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966593/regal53-1_eyexnl.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273219/Screenshot_2025-11-04_at_23.04.43_oqnoo4.avif",
       name: "Tipe 57/96",
@@ -502,8 +503,8 @@ export default function Properties() {
     {
       id: 11,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966594/regal53-2_cvintq.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966593/regal53-1_eyexnl.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273219/Screenshot_2025-11-04_at_23.04.50_szhjno.avif",
       name: "Tipe 67/112",
@@ -518,8 +519,8 @@ export default function Properties() {
     {
       id: 12,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+         "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966594/regal53-2_cvintq.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966593/regal53-1_eyexnl.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dqobwse9q/image/upload/v1762273220/Screenshot_2025-11-04_at_23.04.56_cjss5m.avif",
       name: "Tipe 69/112",
@@ -1139,9 +1140,6 @@ export default function Properties() {
                         </div>
                       </div>
                     </div>
-
-                    <h3 className="modal-subtitle">Harga</h3>
-                    <div className="modal-price">Rp {selectedProperty.price}</div>
 
                     <div className="modal-cta">
                       <Link

@@ -27,7 +27,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif"
+                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966592/regal52-2_aj63bf.avif"
                 alt="Sapphire Residence Tegal III & IV"
                 width={600}
                 height={450}
@@ -42,7 +42,7 @@ export default function About() {
             <div className="about-content">
               <h2 className="about-title">Sapphire Residence Tegal</h2>
               <p className="about-description">
-                Berada di Jl. Siklepuh Raya, Mejasem, Pacul–Talang, Kota Tegal, Sapphire Residence Tegal adalah perumahan Tegal yang sudah dipercaya 800++ keluarga. Kawasannya rapi, strategis, dan dekat ke banyak aktivitas harian, mulai dari pusat kota sampai area pendidikan dan komersial. Jika Anda mencari hunian yang nyaman ditempati sekaligus menjanjikan untuk jangka panjang, kawasan ini memberi Anda alasan jelas kenapa begitu banyak keluarga memilih tinggal di sini.
+                Berada di Jl. Siklepuh Raya, Mejasem, Pacul–Talang, Kota Tegal, Sapphire Residence Tegal adalah perumahan Tegal yang sudah dipercaya 800++ keluarga. Kawasannya rapi, strategis, dan dekat ke banyak aktivitas harian, mulai dari pusat kota sampai area pendidikan dan komersial. 
               </p>
               <div style={{ marginTop: '1rem', fontSize: '0.9rem', color: '#666', lineHeight: '1.6' }}>
               </div>
@@ -99,7 +99,7 @@ export default function About() {
               <h2 className="modal-title">Sapphire Residence Tegal III & IV</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif"
+                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762966591/regal35-1_gfcbgb.avif"
                   alt="Sapphire Residence Tegal III & IV"
                   width={700}
                   height={400}
@@ -108,7 +108,8 @@ export default function About() {
               </div>
               <div className="modal-description">
                 <p>
-                  Berada di Jl. Siklepuh Raya, Mejasem, Pacul–Talang, Kota Tegal, <strong>Sapphire Residence Tegal</strong> adalah perumahan Tegal yang sudah dipercaya 800++ keluarga. Kawasannya rapi, strategis, dan dekat ke banyak aktivitas harian, mulai dari pusat kota sampai area pendidikan dan komersial.
+                  Berada di Jl. Siklepuh Raya, Mejasem, Pacul–Talang, Kota Tegal, Sapphire Residence Tegal adalah perumahan Tegal yang sudah dipercaya 800++ keluarga. Kawasannya rapi, strategis, dan dekat ke banyak aktivitas harian, mulai dari pusat kota sampai area pendidikan dan komersial. Jika Anda mencari hunian yang nyaman ditempati sekaligus menjanjikan untuk jangka panjang, kawasan ini memberi Anda alasan jelas kenapa begitu banyak keluarga memilih tinggal di sini.
+
                 </p>
 
                 <h3 className="modal-subtitle">Keunggulan Lokasi</h3>

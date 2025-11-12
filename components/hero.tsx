@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/A_01_3_-_Photo_luyaoc.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966593/regal53-1_eyexnl.avif",
       title: "Pilihan 800++ Masyarakat Tegal",
       description:
         "Fasilitas Lengkap. Nyaman. Strategis.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375413/B_01_2_-_Photo_ss_kawgcb.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966592/regal44-2_jv9ipg.avif",
       title: "Lingkungan yang Rapi dan Nyaman",
       description: "Hunian tertata yang mendukung aktivitas keluarga setiap hari.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761375414/D_01_4_-_Photo_mnwyke.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762966591/regal44-1_kenrgc.avif",
       title: "Lokasi yang Selalu Dicari",
       description: "Dekat pusat aktivitas Kota Tegal untuk hidup yang lebih praktis.",
     },
