@@ -114,7 +114,7 @@ export default function Footer() {
                     </div>
 
                     <div className="footer-copyright">
-                        &copy; {new Date().getFullYear()} Sapphire Residence Tegal III & IV by Sapphire Grup.
+                        &copy; {new Date().getFullYear()} Sapphire Residence Tegal by Sapphire Grup.
                     </div>
 
                     <div className="footer-social">
