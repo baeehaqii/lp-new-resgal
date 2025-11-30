@@ -31,9 +31,9 @@ export default function Features() {
   return (
     <section id="fasilitas" className="features-section">
       <div className="container">
-        <h2 className="section-title">Keunggulan Sapphire Residence Tegal</h2>
+        <h2 className="section-title">Pilihan 800++ Masyarakat Tegal</h2>
         <p className="section-subtitle">
-          Fasilitas Premium untuk Hunian Berkualitas Anda
+          Kawasan Favorit dengan Fasilitas Lengkap 
         </p>
 
         <div className="features-grid">
