@@ -66,18 +66,14 @@ export default function RootLayout({
           !function(e){"use strict";var t=function(t,n,r){var o,i=e.document,d=i.createElement("link");if(n)o=n;else{var s=(i.body||i.getElementsByTagName("head")[0]).childNodes;o=s[s.length-1]}var a=i.styleSheets;d.rel="stylesheet",d.href=t,d.media="only x",function t(e){if(i.body)return e();setTimeout(function(){t(e)})}(function(){o.parentNode.insertBefore(d,n?o:o.nextSibling)});var l=function(e){for(var t=d.href,n=a.length;n--;)if(a[n].href===t)return e();setTimeout(function(){l(e)})};function u(){d.addEventListener&&d.removeEventListener("load",u),d.media=r||"all"}return d.addEventListener&&d.addEventListener("load",u),d.onloadcssdefined=l,l(u),d};"undefined"!=typeof exports?exports.loadCSS=t:e.loadCSS=t}("undefined"!=typeof global?global:this);
         `}} />
 
-        <Script src="https://www.googletagmanager.com/gtag/js?id=AW-17369558016" strategy="lazyOnload" />
-        <Script id="google-analytics" strategy="lazyOnload">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'AW-17369558016');
-          `}
-        </Script>
-
         {/* Google Tag Manager */}
-
+        <script dangerouslySetInnerHTML={{
+          __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TG3MZ6H7');`
+        }} />
         {/* End Google Tag Manager */}
 
         {/* Facebook Pixel Code */}
@@ -94,7 +90,14 @@ export default function RootLayout({
       </head>
       <body style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
         {/* Google Tag Manager (noscript) */}
-
+        <noscript>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-TG3MZ6H7"
+            height="0"
+            width="0"
+            style={{ display: 'none', visibility: 'hidden' }}
+          ></iframe>
+        </noscript>
         {/* End Google Tag Manager (noscript) */}
 
         <Suspense fallback={null}>
